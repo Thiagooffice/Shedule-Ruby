@@ -3,7 +3,7 @@
 #Poderemos ver todos os contatos registrados ou somente um contato;
 
 @agenda = [
-    {nome: "Thiago", telefone: "999999933"},
+    {nome: "Ciclano", telefone: "999999933"},
     {nome: "Fulano", telefone: "339999999"},
 ]
 
